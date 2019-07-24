@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="shared_default_font">latin</string>
+    <boolean name="km.firstLaunch" value="false" />
+    <string name="savefiles_image">km</string>
+    <int name="km.recentColor.8" value="-61184" />
+    <string name="supportLogger">7,1,10,5,2,4,0,28,0,8,1,4,55,0,9,1,4,29,0,30,0,33,0,35,0,36,1,0,12,3,1280,720,3963617,19,0,37,0,39,0,38,0,40,0,41,0,15,0,16,0,17,0,18,0,14,0,24,0,1,2,0,2,25,0,46,1,1,10,1,10,46,1,25,46,1,50,46,1,75,7,1,4,10,1,4,46,1,100,11,1,4,8,1,4,55,0,9,1,4,26,0,27,0,22,0,45,0,42,0,7,1,4,10,1,4,57,0,5,2,5,0,8,1,5,55,0,9,1,5,7,1,5,9,1,5,7,1,5,5,2,9,0,8,1,9,55,0,9,1,9,10,1,5,7,1,9,11,1,5,8,1,5,55,0,9,1,5,10,1,9,6,1,9,7,1,5,10,1,5</string>
+    <string name="add_layer_def_duration">6000</string>
+    <string name="applied_support_criteria">1,2147483647,55,2088960,25</string>
+    <int name="km.recentColor.10" value="-131584" />
+    <int name="km.recentColor.7" value="-16723457" />
+    <string name="tlp_cached_cachesrc_com.nexstreaming.app.general.tracelog.DeviceSupportResponse"></string>
+    <string name="apc_skus">Extend KineMaster for 90 days=com.kinemaster.extension.90.days.dc2;Extend KineMaster for 30 days=com.kinemaster.extension.30.days.dc2;annual=com.kinemaster.subscription.annual40.trial14;Extend KineMaster for 1 year=com.kinemaster.extension.365.days.dc2;monthly=com.kinemaster.subscription.monthly5.trial14;onetime=com.kinemaster.onetime.30.days</string>
+    <int name="km.recentColor.13" value="-10066330" />
+    <long name="apc_neg_date" value="1468716905464" />
+    <int name="rate_export_success_count" value="20" />
+    <long name="tlp_cached_refresh_com.nexstreaming.app.general.tracelog.DeviceSupportResponse" value="1468749487427" />
+    <boolean name="export_diagnostics" value="false" />
+    <boolean name="pref_mbrowser_full" value="false" />
+    <int name="km.recentColor.2" value="-1" />
+    <long name="apc_sku_date" value="1468716904560" />
+    <string name="aud_rec_from_camcorder">auto</string>
+    <boolean name="report_anon_usage" value="false" />
+    <int name="supportLoggerCut" value="131" />
+    <string name="add_img_def_crop">panface</string>
+    <int name="km.recentColor.9" value="-16711936" />
+    <int name="km.recentColor.3" value="-26368" />
+    <int name="km.recentColor.0" value="-16777216" />
+    <int name="km.recentColor.5" value="-3355444" />
+    <int name="km.recentColor.11" value="-1184181" />
+    <long name="tlp_cached_exp_com.nexstreaming.app.general.tracelog.DeviceSupportResponse" value="9223372036854775807" />
+    <boolean name="km.pga.tried_new_proj_assist" value="true" />
+    <string name="exporting_frame_rate">30</string>
+    <string name="savefiles_video">km</string>
+    <string name="add_img_def_duration">6000</string>
+    <long name="tlp_cached_lastupdate_com.nexstreaming.app.general.tracelog.DeviceSupportResponse" value="1468663087437" />
+    <string name="nex_tl_app_id">665a5368ba2b4dcd3e3b9a3ca10ee314</string>
+    <string name="sorting_project">edit</string>
+    <string name="savefiles_capture">km</string>
+    <int name="km.recentColor.4" value="-6710887" />
+    <string name="savefiles_audio">km</string>
+    <boolean name="pref_abrowser_full" value="false" />
+    <int name="km.recentColor.1" value="-14745856" />
+    <boolean name="pref_mbrowser_hierarchy" value="false" />
+    <boolean name="pref_logo_edit" value="false" />
+    <boolean name="rate_neverShowReviewPopup" value="true" />
+    <boolean name="mobile_updates" value="true" />
+    <string name="km.ui.handwriting.brush">Pencil</string>
+    <string name="App Restrictions">AAAAAA==
+    </string>
+    <int name="km.recentColor.6" value="-16711698" />
+    <string name="data_usage">mobile</string>
+    <int name="km.recentColor.12" value="-8355712" />
+    <boolean name="km.chroma.showmask" value="false" />
+    <string name="tlp_cached_data_com.nexstreaming.app.general.tracelog.DeviceSupportResponse">{&quot;device_info&quot;:{&quot;export_res_extra&quot;:[{&quot;bitrate&quot;:524288,&quot;display_height&quot;:180,&quot;height&quot;:192,&quot;width&quot;:320}],&quot;export_res_hw&quot;:[{&quot;bitrate&quot;:12582912,&quot;display_height&quot;:1080,&quot;height&quot;:1080,&quot;width&quot;:1920},{&quot;bitrate&quot;:6291456,&quot;display_height&quot;:720,&quot;height&quot;:720,&quot;width&quot;:1280},{&quot;bitrate&quot;:2097152,&quot;display_height&quot;:360,&quot;height&quot;:360,&quot;width&quot;:640}],&quot;export_res_sw&quot;:[{&quot;bitrate&quot;:12582912,&quot;display_height&quot;:1080,&quot;height&quot;:1088,&quot;width&quot;:1920},{&quot;bitrate&quot;:6291456,&quot;display_height&quot;:720,&quot;height&quot;:736,&quot;width&quot;:1280},{&quot;bitrate&quot;:2097152,&quot;display_height&quot;:360,&quot;height&quot;:368,&quot;width&quot;:640}],&quot;properties&quot;:{&quot;support_video_layers&quot;:&quot;1&quot;},&quot;audio_codec_count&quot;:-1,&quot;max_codec_mem_size&quot;:12533760,&quot;max_dec_count&quot;:2,&quot;max_dec_res_hw_b&quot;:2088960,&quot;max_dec_res_hw_h&quot;:2088960,&quot;max_dec_res_hw_m&quot;:2088960,&quot;max_dec_res_nexsw_b&quot;:2088960,&quot;max_dec_res_nexsw_h&quot;:2088960,&quot;max_dec_res_nexsw_m&quot;:2088960,&quot;max_dec_res_sw_b&quot;:0,&quot;max_dec_res_sw_h&quot;:0,&quot;max_dec_res_sw_m&quot;:0,&quot;max_enc_count&quot;:1,&quot;max_fhd_trans_time&quot;:-1,&quot;max_fps&quot;:55,&quot;max_hw_import_res&quot;:2088960,&quot;max_sw_import_res&quot;:2088960,&quot;rec_image_mode&quot;:1,&quot;rec_video_mode&quot;:2,&quot;support_avc&quot;:3,&quot;support_mpeg4v&quot;:0,&quot;supported&quot;:1},&quot;match_info&quot;:{&quot;board_platform&quot;:&quot;MT6795&quot;,&quot;build_device&quot;:&quot;&quot;,&quot;build_model&quot;:&quot;&quot;,&quot;manufacturer&quot;:&quot;&quot;,&quot;record_idx&quot;:180,&quot;os_api_level_max&quot;:10000,&quot;os_api_level_min&quot;:18},&quot;next&quot;:1,&quot;result&quot;:0}</string>
+</map>
